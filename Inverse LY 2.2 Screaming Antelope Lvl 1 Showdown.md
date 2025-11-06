@@ -38,7 +38,7 @@ Blueborn acts
 
 Movement to [6,3]
 
-Activate Survivor Corpes: 9, gain 1 Skull, 3 insanity, and 1 insanity for a friend! The extra point will go to Steeple, sitting on 0 currently.
+Activate Survivor Corpse: 9, gain 1 Skull, 3 insanity, and 1 insanity for a friend! The extra point will go to Steeple, sitting on 0 currently.
 
 Act ends
 
@@ -624,6 +624,7 @@ Fiddler Crab Spider
 Fresh Acanthus x3
 
 Homeward bound with a truckload of resources (and appropriate sacrifices to our oncoming guest...)
+
 
 
 
