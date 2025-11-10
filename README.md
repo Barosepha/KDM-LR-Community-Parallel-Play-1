@@ -46,7 +46,7 @@ Drums - LY 1
 
 Mere Omens - LY 2
 
-Song of the Brave - LY 
+Song of the Brave - LY 2
 
 Paint - LY 3
 
