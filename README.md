@@ -4,7 +4,7 @@ Keeping more detailed settlement and survivor information not available on the m
 |---|---|---|---|---|---|---|---|---|
 | beegoo | 5/2/4/1/0/1 | Fencing, Synchronized Strike, Red Fist | Codependent | 11/16 | Whip - 3/8 | 3/9 | 5/9 | Leprosy, Tinker, Stalwart, Lovelorn Rock, Intracranial Hemorrhage |
 | Blueborn | 5/1/1/1/0/0 | Transcended Masochist, Synchronized Strike, Unbreakable |  | 11/16 | Shield - 4/8 | 5/9 | 8/9 | Leprosy, Tinker, Matchmaker |
-| Misfortune | 5/1/3/1/0/1 | Tough, Unbreakable, Fated Blow | Destined, Vermin Obsession | 6/16 | Fist and Tooth - 3/8 | 0/9 | 5/9 | Tinker, Marrow Hunger, Acid Pailms, Husk of Destiny |
+| Misfortune | 5/1/2/1/0/0 | Tough, Unbreakable, Fated Blow | Destined, Vermin Obsession | 6/16 | Fist and Tooth - 2/8 | 0/9 | 5/9 | Tinker, Marrow Hunger, Acid Pailms, Husk of Destiny |
 | Leer | 5/0/2/1/0/0 | Synchronized Strike, Soft Landing, Armored Fist | Performance Anxiety, Seizures | 5/16 | Katar - 2/8 | 0/9 | 5/9 | Tinker |
 | Drifter | - | - | - | - | - | - | - | Separate Table |
 | Buddy | 5/0/1/1/0/0 |  | Flower Addiction | 0/16 | N/A | 0/9 | 0/9 | Warbling Face |
