@@ -1,4 +1,4 @@
-# Inverse | Current LY: 6 | Current Population: 6
+# Inverse | Current LY: 8 | Current Population: 8
 Keeping more detailed settlement and survivor information not available on the main participant sheet here.
 |Name|Mov/Acc/Str/Eva/Luck/Speed|Fighting Arts|Disorders|Hunt XP|Weapon Proficiency|Cou|Und|Notes/Abilities/Impairments|
 |---|---|---|---|---|---|---|---|---|
