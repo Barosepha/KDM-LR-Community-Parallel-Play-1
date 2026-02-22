@@ -4,10 +4,10 @@ Keeping more detailed settlement and survivor information not available on the m
 |---|---|---|---|---|---|---|---|---|
 | Misfortune | 5/3/4/1/1/0 | Synchronized Strike, Fencing, Fated Blow | Destined, Aichmophobia, Battle Drunk | 16/16 | Fist and Tooth - 8/8 | 2/9 | 9/9 | Tinker, Marrow Hunger, Acid Pailms, Husk of Destiny, Deprivation Skinsuit, F&T Master |
 | Leer | 5/1/6/1/1/2 | Otherworldly Luck, Thrill Seeker, Fencing | Honorable, Anxiety | 15/16 | Bow - 1/8 | 3/9 | 9/9 | Tinker, Largesse, Katar Master, Matchmaker, Brainless Hero of the Phoenix |
-| Thorn |  |  |  |  |  |  |  |  |
-| Root |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
+| Thorn | 5/0/1/1/0/0 | Black Guard Style, Strategist |  | 2/16 | Katar - 1/8 | 0/9 | 5/9 | Warbling Face, Tinker |
+| Root | 6/-1/5/1/0/0 | Thrill Seeker, Fencing, Extra Sense |  | 5/16 | Whip - 1/8 | 3/9 | 7/9 | Warbling Face, Won Triathalon of Death Race, Scarred by Bone Witch, Wise Sneak of the Lion, Tinker, Matchmaker |
+| Stew | 7/3/4/4/0/1 | Fencing, Thrill Seeker, Red Fist | Codependent | 8/16 || Whip - 7/8 | 7/9 | 9/9 | Warbling Face, Formerly beegoo (formerly another name), Tinker, Matchmaker, Virus Flower Host|
+| Blueborn |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
